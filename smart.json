@@ -1,0 +1,8 @@
+{
+    "name": "instagram-",
+    "description":  "Instagram OAuth flow, dependency to accounts-instagram-",
+    "homepage": "https://github.com/wiber/meteor-instagram-.git",
+    "author": "Elias Moosman",
+    "version": "0.0.1",
+    "git": "https://github.com/wiber/meteor-instagram-.git"
+}
